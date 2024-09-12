@@ -1,0 +1,15 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+embeddings
+tqdm
+streamlit
+langchain_openai
+langchain_pinecone
+pinecone
